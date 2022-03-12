@@ -25,3 +25,5 @@
 1. clone this repository into your local machine 
 2. open this repository in your favorite IDE (I use IntelliJ IDEA)
 3. run the Main class 
+4. fill out the inputs with your first name, last name and department code 
+5. check your new company email/password 
