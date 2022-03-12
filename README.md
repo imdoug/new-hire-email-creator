@@ -4,7 +4,7 @@
 
 What this code do 
 
-### 1 Generates an email with the sintax: "fname.lname@dep.company.com"
+### 1 Generates an email with the sintax: "firstname . lastname @ department . company . com"
 ### 2 You can determin the department by chosing the department code 
   - EX: 1 for Sales | 2 for development | 3 accounting | 0 for none 
 ### 3 Generates an inital random password 
